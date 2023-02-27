@@ -1,0 +1,16 @@
+.meals {
+    max-width: 60rem;
+    margin: auto;
+    margin-top: 4rem;
+    position: relative;
+    background-color: #ffffff;
+    color: black;
+    border-radius: 14px;
+    padding: 2rem;
+    box-shadow: 0 1px 18px 10px rgba(0, 0, 0, 0.25);
+    margin-bottom: 2rem;
+}
+
+ul {
+    list-style-type: none;
+}
